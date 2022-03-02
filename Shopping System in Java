@@ -1,3 +1,4 @@
+// Java code for Shopping System Management
 import java.util.*;
 
 public class Customer {
